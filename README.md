@@ -6,6 +6,8 @@ My background is with flight simulation having worked as a Flight Sim engineer f
 - 🌱 I’m currently learning Python and data engineering
 - 📫 Contact me via my page or email
 
+- https://www.linkedin.com/in/andrew-rudge/
+
 <!--
 **AndrewFudge/AndrewFudge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
