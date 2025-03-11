@@ -1,9 +1,10 @@
-## Hello World 👋
+## Andrew Rudge
 
-My background is with flight simulation having worked as a Flight Sim engineer for a third of my life! I have dabbled in code through sim projects, video game mods and bug fixing in a range of languages
+My background is with flight simulation having worked as a Flight Sim engineer for a third of my life! I have used code through sim projects, video game mods and bug fixing in a range of languages.
 
 - 🔭 I’m currently working on the NorthCoders Data Engineering Bootcamp
 - 🌱 I’m currently learning Python and data engineering
+- 📫 Contact me via my page or email
 
 <!--
 **AndrewFudge/AndrewFudge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
