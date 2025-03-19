@@ -2,8 +2,9 @@
 
 My background is with flight simulation having worked as a Flight Sim engineer for a third of my life! I have used code through sim projects, video game mods and bug fixing in a range of languages.
 
-- 🔭 I’m currently working on the NorthCoders Data Engineering Bootcamp
-- 🌱 I’m currently learning Python and data engineering
+- 🔭 Recently graduated from the NorthCoders Data Engineering and cloud computing Bootcamp
+- 🌱 I’m currently building my Python and data engineering portfolio
+- 💬 Python and SQL are my most proficient languages 
 - 📫 Contact me via my page or email
 
 - https://www.linkedin.com/in/andrew-rudge/
